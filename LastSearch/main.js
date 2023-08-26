@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         YouTube Last Search Saver with Auto-Update
+// @name         LastSearch - YouTube Last Search Saver with Auto-Update
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Save and load the last YouTube search query with auto-update.
-// @author       Your Name
+// @author       zShadowSkilled
 // @match        https://www.youtube.com/*
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
