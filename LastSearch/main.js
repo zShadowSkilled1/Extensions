@@ -12,7 +12,7 @@
     'use strict';
 
     const SCRIPT_NAME = 'YouTube Last Search Saver with Auto-Update';
-    const SCRIPT_URL = 'https://raw.githubusercontent.com/yourusername/yourrepository/master/script.user.js'; // URL to your raw userscript file
+    const SCRIPT_URL = 'https://raw.githubusercontent.com/zShadowSkilled1/Extensions/main/LastSearch/main.js'; // Updated URL
 
     // Function to save the search query to local storage
     function saveLastSearch() {
