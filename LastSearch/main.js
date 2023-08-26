@@ -1,15 +1,3 @@
-// ==UserScript==
-// @name         LastSearch
-// @namespace    http://tampermonkey.net/
-// @version      0.3
-// @description  Save and load the last YouTube search query with auto-update.
-// @author       zShadowSkilled
-// @match        https://www.youtube.com/*
-// @grant        GM_info
-// @grant        GM_xmlhttpRequest
-// @grant        GM_addStyle
-// ==/UserScript==
-
 (function() {
     'use strict';
 
