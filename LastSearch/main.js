@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         LastSearch - YouTube Last Search Saver with Auto-Update
+// @name         LastSearch
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Save and load the last YouTube search query with auto-update.
 // @author       zShadowSkilled
 // @match        https://www.youtube.com/*
@@ -13,7 +13,7 @@
 (function() {
     'use strict';
 
-    const SCRIPT_NAME = 'LastSearch - YouTube Last Search Saver with Auto-Update';
+    const SCRIPT_NAME = 'LastSearch';
     const SCRIPT_URL = 'https://raw.githubusercontent.com/zShadowSkilled1/Extensions/main/LastSearch/main.js';
 
     function saveLastSearch() {
@@ -89,4 +89,3 @@
 
     updateScript();
 })();
-
